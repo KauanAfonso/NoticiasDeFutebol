@@ -1,0 +1,60 @@
+
+body{
+    background: linear-gradient(#2e2f2f, #4ac6cd);
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+
+.div_texto_carrosel{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: antiquewhite;
+    border: solid 1px black;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.div_texto_carrosel h5{
+    border-right: solid 2px;
+    padding: 10px;
+    text-transform: uppercase;
+    margin-right: 5px;
+    
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+}
+
+
+.card{
+    border: black solid 3px;
+    border-radius: 10px;
+}
+
+.card:hover{
+    background-color: rgb(132, 126, 79);
+    padding: 5px;
+    
+
+}
+
+.DivConteudoMain{
+    text-align: center !important;
+    margin-left: 80px;
+}
+
+.conteudoNoticias{
+    color: white;
+    text-align: justify;
+}
+
+.navbar-brand{
+    font-size: 50px;
+   
+}
